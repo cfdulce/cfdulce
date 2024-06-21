@@ -9,7 +9,7 @@
 
 - 📧 How to reach me _dulcecarrillofernandez@gmail.com_
 
-- 💡 Fun fact I am fluently bilingual in _Spanish and English_! I love cats and I love coding!
+- 💡 Fun fact I am fluently bilingual in _Spanish and English_! And I love learning!
 
 I am working on small coding projects to practice and learn more coding things! If you  have any advice etc. feel free to contact me! I'd appreciate it very much!
 
