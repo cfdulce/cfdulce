@@ -3,7 +3,7 @@
 <h3 align="center">I am Dulce, a beginner programming high school student.</h3>
 <img align="right", alt="Coding", width="100", length="200" src="https://th.bing.com/th/id/OIG.ZeUy59qU3um3EMcxWCpT?w=270&h=270&c=6&r=0&o=5&pid=ImgGn">
 
-- 📚I’m currently learning *Python, HTML, MySQL, C++ and C#*
+- 📚I’m currently learning *Python, HTML, MySQL, C++ and Visual Basic*
 
 - 👨‍💻 All of my projects are available at [https://github.com/cfdulce](https://github.com/cfdulce)
 
