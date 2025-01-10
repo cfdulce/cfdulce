@@ -3,7 +3,7 @@
 <h3 align="center">I am Dulce, a beginner programming high school student.</h3>
 <img align="right", alt="Coding", width="100", length="200" src="https://th.bing.com/th/id/OIG.ZeUy59qU3um3EMcxWCpT?w=270&h=270&c=6&r=0&o=5&pid=ImgGn">
 
-- 📚I’m currently learning *Python, HTML, MySQL, C++ and Visual Basic*
+- 📚I’m currently working with *Python, MySQL, C++, CSS and .NET*
 
 - 👨‍💻 All of my projects are available at [https://github.com/cfdulce](https://github.com/cfdulce)
 
@@ -11,7 +11,7 @@
 
 - 💡 Fun fact I am fluently bilingual in _Spanish and English_! And I love learning!
 
-I am working on small coding projects to practice and learn more coding things! If you  have any advice etc. feel free to contact me! I'd appreciate it very much!
+I am working on small coding projects to practice and learn more about coding. If you have any advice, etc., feel free to contact me. I'd appreciate it very much!
 
 <h3 align="left">Connect with me!:</h3>
 <p align="left">
